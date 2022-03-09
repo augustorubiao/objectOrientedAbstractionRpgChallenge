@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\teste.csproj": {}
+    "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\fiveEvenSum.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\teste.csproj": {
+    "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\fiveEvenSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\teste.csproj",
-        "projectName": "teste",
-        "projectPath": "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\teste.csproj",
+        "projectUniqueName": "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\fiveEvenSum.csproj",
+        "projectName": "fiveEvenSum",
+        "projectPath": "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\fiveEvenSum.csproj",
         "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
         "outputPath": "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\obj\\",
         "projectStyle": "PackageReference",

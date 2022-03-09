@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Visual Studio Code\\Desafios\\teste\\teste.csproj",
-      "projectName": "teste",
-      "projectPath": "C:\\workspace\\Visual Studio Code\\Desafios\\teste\\teste.csproj",
+      "projectUniqueName": "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\fiveEvenSum.csproj",
+      "projectName": "fiveEvenSum",
+      "projectPath": "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\fiveEvenSum.csproj",
       "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\Visual Studio Code\\Desafios\\teste\\obj\\",
+      "outputPath": "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config"

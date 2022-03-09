@@ -1,0 +1,15 @@
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\bin\Debug\net6.0\fiveEvenSum.exe
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\bin\Debug\net6.0\fiveEvenSum.deps.json
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\bin\Debug\net6.0\fiveEvenSum.runtimeconfig.json
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\bin\Debug\net6.0\fiveEvenSum.dll
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\bin\Debug\net6.0\fiveEvenSum.pdb
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\obj\Debug\net6.0\fiveEvenSum.csproj.AssemblyReference.cache
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\obj\Debug\net6.0\fiveEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\obj\Debug\net6.0\fiveEvenSum.AssemblyInfoInputs.cache
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\obj\Debug\net6.0\fiveEvenSum.AssemblyInfo.cs
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\obj\Debug\net6.0\fiveEvenSum.csproj.CoreCompileInputs.cache
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\obj\Debug\net6.0\fiveEvenSum.dll
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\obj\Debug\net6.0\refint\fiveEvenSum.dll
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\obj\Debug\net6.0\fiveEvenSum.pdb
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\obj\Debug\net6.0\fiveEvenSum.genruntimeconfig.cache
+C:\workspace\Visual Studio Code\Desafios\fiveEvenSum\obj\Debug\net6.0\ref\fiveEvenSum.dll

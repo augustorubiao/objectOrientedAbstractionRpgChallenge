@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tkXF4L6nNt+aMy6VW7A8AKbynojMw1xyAcXFEwaW6m4a38h3QJCeotn+mJQk8TTaR/cWX10JKVMfFihK9x9kqg==",
+  "dgSpecHash": "g9gnZ/YvOUV7CJRKw6nXlHK+pPRgZ9/yCeKwxieRnX5o/gpqxIHs22VhT5dpiVBZKr0u/+zVXXv/MTxMhNEufw==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Visual Studio Code\\Desafios\\teste\\teste.csproj",
+  "projectFilePath": "C:\\workspace\\Visual Studio Code\\Desafios\\fiveEvenSum\\fiveEvenSum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
