@@ -1,0 +1,15 @@
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\bin\Debug\net6.0\objectOrientedRpgAbstraction.exe
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\bin\Debug\net6.0\objectOrientedRpgAbstraction.deps.json
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\bin\Debug\net6.0\objectOrientedRpgAbstraction.runtimeconfig.json
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\bin\Debug\net6.0\objectOrientedRpgAbstraction.dll
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\bin\Debug\net6.0\objectOrientedRpgAbstraction.pdb
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\obj\Debug\net6.0\objectOrientedRpgAbstraction.csproj.AssemblyReference.cache
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\obj\Debug\net6.0\objectOrientedRpgAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\obj\Debug\net6.0\objectOrientedRpgAbstraction.AssemblyInfoInputs.cache
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\obj\Debug\net6.0\objectOrientedRpgAbstraction.AssemblyInfo.cs
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\obj\Debug\net6.0\objectOrientedRpgAbstraction.csproj.CoreCompileInputs.cache
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\obj\Debug\net6.0\objectOrientedRpgAbstraction.dll
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\obj\Debug\net6.0\refint\objectOrientedRpgAbstraction.dll
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\obj\Debug\net6.0\objectOrientedRpgAbstraction.pdb
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\obj\Debug\net6.0\objectOrientedRpgAbstraction.genruntimeconfig.cache
+C:\workspace\Visual Studio Code\Desafios\objectOrientedRpgAbstraction\obj\Debug\net6.0\ref\objectOrientedRpgAbstraction.dll
